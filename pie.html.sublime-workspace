@@ -1,0 +1,403 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padi",
+				"padding-top\tproperty"
+			],
+			[
+				"top",
+				"margin-top\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"W",
+				"width\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"borde",
+				"border-bottom\tproperty"
+			],
+			[
+				"BORDE",
+				"border\tproperty"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"p",
+				"p\t<p>"
+			],
+			[
+				"a",
+				"ayuda.html"
+			],
+			[
+				"html",
+				"html\thtml"
+			],
+			[
+				"alin",
+				"align-items\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"sa",
+				"space-between\tjustify-content"
+			],
+			[
+				"f",
+				"float\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"min-",
+				"min-width\tproperty"
+			],
+			[
+				"bor",
+				"border-collapse\tproperty"
+			],
+			[
+				"bore",
+				"border-radius\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"mari",
+				"margin-top\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"c",
+				"coi\tcounter-increment"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"w",
+				"width\tAttr"
+			],
+			[
+				"th",
+				"th\t<th>"
+			],
+			[
+				"ta",
+				"target\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Indentation: Convert to Spaces"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Joah/Desktop/menu/css/stylemenu.css",
+		"/C/Users/Joah/Desktop/html/practicas HTML/html/ejercicio4a.html",
+		"/C/Users/Joah/Desktop/html/practicas HTML/html/ejercicio6.html",
+		"/C/Users/Joah/Desktop/html/practicas HTML/html/ejercicio9.html",
+		"/C/Users/Joah/Desktop/html/practicas HTML/html/ejercicio11.html",
+		"/C/Users/Joah/Desktop/html/practicas HTML/html/iframe.html",
+		"/C/Users/Joah/Desktop/html/html4.html",
+		"/C/Users/Joah/Desktop/html/practicas HTML/html/ejercicio13.html",
+		"/C/Users/Joah/Desktop/html/practicas HTML/html/Ejercicio8.html",
+		"/C/Users/Joah/Desktop/html/practicas HTML/css/styleinstagram.css",
+		"/C/Users/Joah/Desktop/html/practicas HTML/html/instagram.html",
+		"/C/Users/Joah/Desktop/html/practicas HTML/html/ejercicio4.html",
+		"/C/Users/Joah/Desktop/ejercicios casa/html/pagina-prueba.html",
+		"/C/xampp/webdav/Pagina-proyecto/html/index.html",
+		"/C/xampp/webdav/Pagina-proyecto/css/formulario.css",
+		"/C/xampp/webdav/Pagina-proyecto/css/login.css",
+		"/C/xampp/webdav/Pagina-proyecto/css/styl.css",
+		"/C/xampp/webdav/Pagina-proyecto/css/styles.css",
+		"/C/Users/Joah/Desktop/menu/html/menu.html",
+		"/C/Users/Joah/Desktop/html/practicas HTML/html/etiquetavideo.html",
+		"/C/Users/Joah/Desktop/html/practicas HTML/html/ejercicio5.html",
+		"/C/Users/Joah/Desktop/PROYECTO/css/stylema.css",
+		"/C/Users/Joah/Desktop/PROYECTO/html/maquetacion.html",
+		"/C/Users/Joah/Desktop/ejercicios casa/css/stylepp.css",
+		"/C/Users/Joah/Desktop/menu/html/personalizacion.html",
+		"/C/Users/Joah/Desktop/menu/html/perfil.html",
+		"/C/Users/Joah/Desktop/menu/html/informes.html",
+		"/C/Users/Joah/Desktop/menu/html/administrador.html",
+		"/C/Users/Joah/Desktop/menu/html/ayuda.html",
+		"/C/Users/Joah/Desktop/menu/html/comentarios.html",
+		"/C/xampp/webdav/php/recibe.php",
+		"/C/xampp/webdav/css/stylefor.css",
+		"/C/xampp/webdav/html/formulario.html",
+		"/C/xampp/webdav/html/formulario.php",
+		"/C/Users/Joah/Desktop/practica ccs/index.html",
+		"/C/Users/Joah/Desktop/practica ccs/css/css.css",
+		"/C/xampp/webdav/index.html",
+		"/C/xampp/webdav/html/practicacss.css",
+		"/C/Users/Joah/Desktop/practica/contacto.html",
+		"/C/Users/Joah/Desktop/practica/acerca_nosotros.html",
+		"/C/Users/Joah/Desktop/practica/galeria.html",
+		"/C/Users/Joah/Desktop/practica/ejercicio1.html",
+		"/C/Users/Joah/Desktop/practica/acerca_nosotros",
+		"/C/Users/Joah/Desktop/html/html1.html",
+		"/C/Users/Joah/Desktop/html/html2.html",
+		"/C/Users/Joah/Desktop/html/html3.html",
+		"/C/Users/Joah/Desktop/html/html1"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pie.html.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 144.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
